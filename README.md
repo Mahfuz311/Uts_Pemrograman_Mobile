@@ -17,6 +17,38 @@ Link Gantt ClickUp: https://app.clickup.com/90181799239/v/li/901813084442
 
 ---
 
-## 1. Storyboard
+## Storyboard
 
-<img src="
+<img src="https://github.com/Mahfuz311/Uts_Pemrograman_Mobile/blob/2f6a4325c12b8843843ee29ff33fdeaaf88dcc6f/storyboard.png" width="800">
+
+---
+
+## Wireframe
+
+<img src="https://github.com/Mahfuz311/Uts_Pemrograman_Mobile/blob/308684930d9c06f61b9746e603240e02e701e06c/Screenshot%202025-11-09%20153059.png" width="800">
+
+---
+
+## Splash Screen
+
+https://github.com/user-attachments/assets/446bd0a6-2401-4685-bab2-eb42fb47505c
+
+---
+
+## UI (User Interface)
+
+<img src="https://github.com/Mahfuz311/Uts_Pemrograman_Mobile/blob/308684930d9c06f61b9746e603240e02e701e06c/Screenshot%202025-11-09%20153017.png" width="800">
+
+---
+
+## Mockup
+
+<img src="https://github.com/Mahfuz311/Uts_Pemrograman_Mobile/blob/308684930d9c06f61b9746e603240e02e701e06c/Mockup%205.png" width="800">
+
+---
+
+## UX (User Experience)
+
+https://github.com/user-attachments/assets/1761375f-6ec6-4ba6-9872-8a1d79f7de91
+
+---
